@@ -6,3 +6,6 @@ https://drive.google.com/file/d/1LMrcvgQD67b1d-5V55IrO75SZxd3J8-9/view?usp=drive
 
 Modul 3. Task 3 - I grouped, sorted data, used lambda, functions, apply, agg methods
 https://drive.google.com/file/d/1kLngYpVzd2MZPrroiSRWs4oC4pf5ptsN/view?usp=sharing
+
+Modul 3. Task 4. - I created a lot of pivot tables
+https://drive.google.com/file/d/1ZF0gwzAaGgJoDtt9J9guHTAJ7YRjlp1z/view?usp=drive_link
